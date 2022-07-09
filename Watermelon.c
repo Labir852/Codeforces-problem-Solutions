@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-    int w=10;
-//scanf("%d",&w);
+    int w;
+scanf("%d",&w);
 
     if(w%2==0 && w>2)
     {
